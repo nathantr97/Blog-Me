@@ -18,6 +18,8 @@ The motivation for this project isa to create a tech blog where users can publis
 
 ## Link
 
+https://tech-blogs-in-one.herokuapp.com/
+
 ## Usage
 <li> Homepage will display some recently added posts by other developers
 <br>
@@ -37,5 +39,6 @@ The motivation for this project isa to create a tech blog where users can publis
 
 ## Credits
 
-My private tutor <br>
+Private Tutor <br>
+BCS-Spider <br>
 Nathan
